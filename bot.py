@@ -91,7 +91,7 @@ tasks = ""
 PROCEED_MESSAGE = f"""
 🔹 Airdrop Reward = *{AIRDROP_AMOUNT} {COIN_SYMBOL}*
 🔹 Extra reward per referral = *{"{:,.2f}".format(REFERRAL_REWARD)} {COIN_SYMBOL}* (max {MAX_REFS}){SYMBOL}
-🔹 5000 {COIN_SYMBOL} get 1 Genesis NFT
+🔹 1000 {COIN_SYMBOL} get 1 Genesis NFT
 
 📢 Airdrop Rules
 
@@ -104,7 +104,7 @@ PROCEED_MESSAGE = f"""
 NOTE: Users found Cheating would be disqualified & banned immediately.
 
 📢 Referral Program:
-Refer your friends to the airdrop and earn extra Callicrypto tokens! Get your unique referral link after completing the airdrop form.
+Refer your friends to the airdrop and earn extra points! Get your unique referral link after completing the airdrop form.
 
 Airdrop Date: *{AIRDROP_DATE}*{EXPLORER_URL}
 
